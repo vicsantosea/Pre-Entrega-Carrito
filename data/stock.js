@@ -18,7 +18,7 @@ const productos =
         desc: "Remera 100% Algodon, Estampado AngularJs",
         precio: 1200,
         talle: "L",
-        imagen: './public/images/AngularJS.jpg',
+        imagen: './public/images/angularJS.jpg',
         cantidad:1
     },
 
@@ -62,7 +62,7 @@ const productos =
         desc: "Remera 100% Algodon, Estampado Sass",
         precio: 1000,
         talle: "L",
-        imagen: 'gi./public/images/sass.jpg',
+        imagen: './public/images/sass.jpg',
         cantidad:1
     },
 
