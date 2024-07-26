@@ -7,7 +7,7 @@ const productos =
         desc: "Remera 100% Algodon, Estampado JS",
         precio: 1200,
         talle: "L",
-        imagen: './public/images/JS.jpg',
+        imagen: './public/images/js.jpg',
         cantidad:1
     },
 
